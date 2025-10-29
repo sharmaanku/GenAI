@@ -1,0 +1,5 @@
+{
+  "name": "Nano Banana Image Studio",
+  "description": "An extensive and dynamic application to generate and edit images using the Gemini 'Nano Banana' (gemini-2.5-flash-image) model. Create new visuals from text prompts or upload your own images to modify them with AI.",
+  "requestFramePermissions": []
+}
